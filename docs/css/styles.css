@@ -1,0 +1,40 @@
+.container{
+    font-family: 'Courier New', sans-serif;
+    width: 300px;
+    margin: 30px auto 0;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+
+.tile{
+  width : 70px;
+  height: 70px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  text-align : center;
+  font-size: 36px;
+  background-color: white;
+  box-shadow: 5px 5px 0 #808080;
+}
+
+.tile0{
+  width : 70px;
+  height: 70px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  text-align : center;
+  font-size: 36px;
+  background-color: red;
+  box-shadow: 5px 5px 0 #808080;
+}
+
+ #clear{
+  margin-top: 20px;
+  font-size: 36px;
+ }
+
+ #Name {
+  margin-top: 50px;
+}
