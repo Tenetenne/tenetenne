@@ -17,6 +17,8 @@
   font-size: 36px;
   background-color: white;
   box-shadow: 5px 5px 0 #808080;
+  user-select: none;
+  cursor: pointer;
 }
 
 .tile0{
